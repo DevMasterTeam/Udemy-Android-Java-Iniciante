@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+
+    <string name="title_imc">Calculadora IMC</string>
+
+    <string name="hint_weight">Peso</string>
+
+    <string name="label_height">Altura (cm)</string>
+    <string name="label_result">RESULTADO</string>
+
+    <string name="button_clear">Limpar</string>
+    <string name="button_calculate">Calcular</string>
+
+    <string name="msg_select_valid_weight">Digite um peso válido.</string>
+    <string name="msg_select_valid_height">Selecione uma altura válida.</string>
+</resources>
